@@ -7,4 +7,4 @@ scikit-learn=0.24.1
 
 Contact us
 If you have any problme when running the code, please do not hesitate to contact us. Thanks.
-E-mail: Lvzhiyong_fly@hotmail.com, Zhangpengfie_life@hotmail.com Date: June 28, 2023
+E-mail: Zhangpengfie_life@hotmail.com Date: June 28, 2023
