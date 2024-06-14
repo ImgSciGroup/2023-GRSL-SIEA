@@ -1,8 +1,14 @@
 # 2023-GRSL-SIEA
 Requirements
-python=3.8 pytorch=1.9
+
+python=3.8 
+
+pytorch=1.9
+
 opencv-python=4.6.0.66
+
 scikit-image=0.18.1
+
 scikit-learn=0.24.1
 
 Usage
