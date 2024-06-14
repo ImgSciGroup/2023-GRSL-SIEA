@@ -17,7 +17,10 @@ Train && Test
 
 Load the train and test(val) data path
 
-python main.py
+Run python main.py
+
+Evaluation
+Run python Evaluation.py
 
 ## Citation
 If you find our work useful for your research, please consider citing our paper:  
