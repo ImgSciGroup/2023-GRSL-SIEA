@@ -14,7 +14,9 @@ scikit-learn=0.24.1
 
 # Usage
 Train && Test
+
 Load the train and test(val) data path
+
 python main.py
 
 # Contact us
